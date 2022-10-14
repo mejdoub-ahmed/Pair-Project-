@@ -1,0 +1,485 @@
+ .header_black {
+    width: 100%;
+    height: 60px;
+    background: rgb(46, 46, 46);
+    box-shadow: 0px 0px  10px black;
+}   
+
+.text_header{
+    font-size: 19px;
+    position: relative;
+    left: -700px;
+    top: -10px;
+    font-weight: bold;
+    color:white;
+    font-family: arial;
+    
+}
+
+#text_header{
+    font-size: 19px;
+    position: relative;
+    left: -610px;
+    top: -45px;
+    font-weight: bold;
+    color:rgb(114,180,56);
+    font-family: arial;
+}
+
+.buttton_header{
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    font-size: 15px;
+    background-color: rgb(46, 46, 46);
+    align-content: center;
+    text-align: center;
+    font-style: initial;
+    display: block;
+    margin:  25px;
+    float: left;
+    position: relative;
+    left: 300px;
+    top: -8px
+    
+}
+ 
+ #buttton_ff{
+    border-color: white;
+    color:black;
+    font-size: 18px;
+    background-color: white;
+    padding: 18px 43px;
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    margin:  25px;
+    float: left;
+    position: relative;
+    top: -25px;
+    box-shadow: 0px 0px  10px black;
+    left: 300px;
+    
+}  
+
+
+
+
+
+
+/*   
+i {
+    margin-left: 10px;
+    font-size: 20px;
+    position: relative;
+    top: -320px;
+    left: 10px;
+    color: black
+} */
+
+
+.content-left {
+    width: 700px;
+    height: 500px;
+    background:rgb(46, 46, 46);
+    float: left;
+    position : relative ;
+    left: -625px;
+    top:-14px;
+
+}
+
+.content-right {
+    width: 680px;
+    height: 500px;
+    background:rgb(46, 46, 46);
+    position : relative ;
+    left: 699px;
+    top:-29px;
+
+}
+
+
+.head_find_staduim {
+ color :white;
+ font-size: 40px;
+ font-weight: bold;
+ position: relative;
+ top: -450px;
+ left: 150px;
+ font-family: arial;
+}
+
+.head_have_fun{
+    color :rgb(114,180,56);
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    top: -460px;
+    left: 360px;
+    font-family: arial;
+}
+
+.box{
+    border-style: solid;
+    border-width:unset;
+    color: white;
+    width: 500px;
+    height: 280px;
+    border-radius: 20px;
+    position: relative;
+    top:-470px;
+    left: 40px;
+}
+
+.text_header_box{
+
+    font-size: 19px;
+    position: relative;
+    left: 80px;
+    top: -750px;
+    font-weight: bold;
+    color:white;
+    font-family: arial;
+
+}
+
+
+
+.list_of_place{
+    border-style: solid;
+    border-width:thin;
+    border-color:white;
+    background-color:rgb(46, 46, 46);
+    color:white;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    top:-760px;
+    left: 90px;
+    font-weight: bold;
+    
+}
+
+.list_of_activity{
+    border-style: solid;
+    border-width:thin;
+    border-color:white;
+    background-color:rgb(46, 46, 46);
+    color:white;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    top:-760px;
+    left: 90px;
+    font-weight: bold;
+   
+}
+
+#button_research{
+    
+    position: relative;
+    padding: 5px 80px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(114,180,56);
+    border-radius: 40px;
+    border-color: white;
+    box-shadow: 0px 0px  10px black;
+    font-size: 15px;
+    top:-705px;
+    left: -220px;
+
+} 
+
+#soccer_image_right{
+    width: 590px;
+    height: 380px; 
+    position: relative;
+    top:80px;
+    
+}
+
+.content_mid_right {
+    width:100%;
+    height: 400px;
+    position: relative;
+    top: -650px;
+    background: rgb(211,211,211);
+
+}
+
+.content_mid_left{
+    width:110%;
+    height: 400px;
+    position: relative;
+    top: -1090px;
+    left: -700px;
+    background: rgb(211,211,211);
+   
+}
+
+#soccer_image_left{
+    width: 540px;
+    height: 400px; 
+    position: relative;
+    top:10px;
+    left: 100px;
+}
+
+
+
+.content_mid_left h3{
+        font-size: 40px;
+        font-weight: bold;
+        font-family: arial;
+        color: rgb(57, 113, 7);
+        position: relative;
+        top: 30px;
+
+
+}
+
+
+.Steps_of_reserve{
+
+    font-size: 25px;
+     position: relative;
+    left: 80px;
+    top: -750px; 
+    color:black;
+    font-family: arial;
+    line-height: 1.8;
+    position : relative ;
+    left : 70px; 
+    top: -20px; 
+} 
+
+.Steps_of_reserve i{
+    font-size: 35px;
+    position: relative;
+    top:-40px;
+    left: 370px; 
+    color:rgb(57, 113, 7);
+    
+}
+
+#soccer_image_whyuseit{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+    color: rgb(57, 113, 7);
+    position: relative;
+    top: -1750px;
+    left: -640px ;  ;
+    width: 1375px; 
+    height:450px;
+}  
+
+.content_mid_left1 {
+    position: relative;
+    top:600px;
+    left: -60px;
+}
+.content_mid_left1 h3{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+    color: rgb(57, 113, 7);
+    position: absolute;
+    top: -1400px;
+}
+
+
+.Why_use_it_content {
+    width:202%;
+    height: 120px;
+    position: relative;
+    top: -1755px;
+    left: -640px;
+    background: rgb(46, 46, 46); 
+}
+
+.easy h4{
+    
+    font-family: arial;
+    font-weight: bold;
+    float: left;
+    color:green ;
+    position :relative;
+    top: -1880px;
+    left: -440px;
+    text-align: center;
+}
+.easy p{
+    
+    font-family: arial;
+    font-weight:normal;
+    float: left;
+    color:white ;
+    position :relative;
+    top: -1850px;
+    left: -600px;
+    text-align: center;}
+
+.vertical {
+    border-left: 6px solid rgb(57, 113, 7);
+    position:relative;
+    height: 120px;
+    left:-200px;
+    top: -1875px;
+}
+
+.safe h4{
+    
+    font-family: arial;
+    font-weight: bold;
+    float: left;
+    color:green ;
+    position :relative;
+    top: -2000px;
+    left: -40px;
+    text-align: center;
+}
+.safe p{
+    
+    font-family: arial;
+    font-weight:normal;
+    float: left;
+    color:white      ;
+    position :relative;
+    top: -1970px;
+    left: -260px;
+    text-align: center;}
+
+    
+.vertical1 {
+        border-left: 6px solid rgb(57, 113, 7);
+        position:relative;
+        height: 120px;
+        left:250px;
+        top: -1995px;
+    }
+
+.fun h4{
+        font-family: arial;
+        font-weight: bold;
+        float: left;
+        color:green ;
+        position :relative;
+        top: -2120px;
+        left: 450px;
+        text-align: center;
+    }
+
+.fun p{
+    
+    font-family: arial;
+    font-weight:normal;
+    float: left;
+    color: white    ;
+    position :relative;
+    top: -2090px;
+    left: 250px;
+    text-align: center;}
+
+
+.footer1{
+    width: 202%;
+    height: 400px;
+    background-color: rgb(211,211,211);
+    position :relative;
+    top: -2040px;
+    left: -640px;
+
+}
+
+.footer1 h3 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+    color: rgb(57, 113, 7);
+    position: relative;
+    top: 30px;
+    left:-270px;
+
+}
+
+.staduim1 {
+    border-style: solid;
+    border-width:unset;
+    color: white;
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+    top:30px;
+    left: 200px;
+    box-shadow: 0px 0px  10px black;
+}
+
+.staduim2 {
+    border-style: solid;
+    border-width:unset;
+    color: white;
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+    top:30px;
+    left: 350px;
+    box-shadow: 0px 0px  10px black;
+}
+
+.staduim3 {
+    border-style: solid;
+    border-width:unset;
+    color: white;
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+    top:30px;
+    left: 510px;
+    box-shadow: 0px 0px  10px black;
+}
+
+
+
+
+.footer {
+    width: 202%;
+    height: 100px;
+    background: #3A3A3A;
+    position : relative;
+    top: -2055px;
+    left: -640px;
+}   
+
+
+.text_footer{
+    font-size: 19px;
+    position: relative;
+    left: 100px;
+    top: 40px; 
+    font-weight: bold;
+    color:white;
+    font-family: arial;
+    
+}
+
+#text_footer{
+    font-size: 19px;
+    position: relative;
+    left: 190px;
+    top:6px;
+    font-weight: bold;
+    color:rgb(114,180,56);
+    font-family: arial;
+}

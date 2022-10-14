@@ -1,0 +1,365 @@
+ .header_black {
+    width: 100%;
+    height: 60px;
+    background: rgb(46, 46, 46);
+    box-shadow: 0px 0px  10px black;
+}   
+
+.text_header{
+    font-size: 19px;
+    position: relative;
+    left: -700px;
+    top: -10px;
+    font-weight: bold;
+    color:white;
+    font-family: arial;
+    
+}
+
+#text_header{
+    font-size: 19px;
+    position: relative;
+    left: -610px;
+    top: -45px;
+    font-weight: bold;
+    color:rgb(114,180,56);
+    font-family: arial;
+}
+
+.buttton_header{
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    font-size: 15px;
+    background-color: rgb(46, 46, 46);
+    align-content: center;
+    text-align: center;
+    font-style: initial;
+    display: block;
+    margin:  25px;
+    float: left;
+    position: relative;
+    left: 300px;
+    top: -8px
+    
+}
+ 
+ #buttton_ff{
+    border-color: white;
+    color:black;
+    font-size: 18px;
+    background-color: white;
+    padding: 18px 43px;
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    margin:  25px;
+    float: left;
+    position: relative;
+    top: -25px;
+    box-shadow: 0px 0px  10px black;
+    left: 300px;
+    
+}  
+
+
+
+
+
+
+
+.content-left {
+    width: 700px;
+    height: 500px;
+    background:rgb(211,211,211);
+    float: left;
+    position : relative ;
+    left: -625px;
+    top:-14px;
+
+}
+
+.content-right {
+    width: 680px;
+    height: 500px;
+    background:rgb(211,211,211);
+    position : relative ;
+    left: 699px;
+    top:-29px;
+
+}
+
+
+.head_find_staduim {
+ color :white;
+ font-size: 40px;
+ font-weight: bold;
+ position: relative;
+ top: -450px;
+ left: 150px;
+ font-family: arial;
+}
+
+.head_have_fun{
+    color :rgb(114,180,56);
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    top: -480px;
+    left: 400px;
+    font-family: arial;
+} 
+
+#button_reserve1{
+    
+    position: relative;
+    padding: 5px 80px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(114,180,56);
+    border-radius: 6px;
+    border-color: white;
+    box-shadow: 0px 0px  10px black;
+    font-size: 17px;
+    top:-1400px;
+    left: -340px;
+} 
+
+
+#stade_tunis {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+    color: rgb(57, 113, 7);
+    position: relative;
+    top:-600px;
+    left:-600px;
+
+}
+
+.staduim1 {
+    border-style: solid;
+    border-width:unset;
+    color: white;
+    width: 520px;
+    height: 220px;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+    top:-600px;
+    left: -600px;
+    box-shadow: 0px 0px  10px black;
+}
+
+#Olympysky{
+    width: 170px;
+    height: 170px; 
+    position: relative;
+    top:-800px;
+    left: -550px;
+}
+
+h4{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+    color: black;
+    position: relative;
+    top:-580px;
+    left: -850px;
+    text-align: center;
+} 
+
+#note1{
+    
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+    color: black;
+    position: relative;
+    top:-605px;
+    left: -850px;
+    text-align: center;
+} 
+
+
+#input_staduim1 {
+    border-color: white;
+    border-radius: 6px;
+    color:black;
+    font-size: 18px;
+    width: 100px;
+    background-color: white;
+    align-content: center;
+    text-align: center;
+    display: block;
+    float: left;
+    position: relative;
+    top: -630px;
+    box-shadow: 0px 0px  10px black;
+    left: -870px;
+
+}
+
+#date_staduim1{
+    border-style: solid;
+    border-width:thin;
+    border-color:white;
+    color:black;
+    background-color:white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    top:-660px;
+    left: -740px;
+    box-shadow: 0px 0px  10px black;
+}
+p{
+
+    position: relative;
+    top:-630px;
+    left: -850px;
+}
+
+
+
+
+
+
+.staduim2 {
+    border-style: solid;
+    border-width:unset;
+    color: white;
+    width: 520px;
+    height: 220px;
+    border-radius: 5px;
+    position: relative;
+    top:-1000px;
+    left: 80px;
+    box-shadow: 0px 0px  10px black;
+}
+
+#lake{
+    width: 170px;
+    height: 170px; 
+    position: relative;
+    top:-1360px;
+    left:20px;
+
+}
+
+#titre2{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+    color: black;
+    position: relative;
+    top:-1210px;
+    left: 100px;
+    text-align: center;
+} 
+
+#note2{
+    
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+    color: black;
+    position: relative;
+    top:-1230px;
+    left: 100px;
+    text-align: center;
+} 
+
+#button_reserve2{
+    
+    position: relative;
+    padding: 5px 80px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(114,180,56);
+    border-radius: 6px;
+    border-color: white;
+    box-shadow: 0px 0px  10px black;
+    font-size: 17px;
+    top:-1395px;
+    left: 110px;
+} 
+
+#input_staduim2 {
+    border-color: white;
+    border-radius: 6px;
+    color:black;
+    font-size: 18px;
+    width: 100px;
+    background-color: white;
+    align-content: center;
+    text-align: center;
+    display: block;
+    float: left;
+    position: relative;
+    top: -1250px;
+    box-shadow: 0px 0px  10px black;
+    left: 340px;
+
+}
+#date_staduim2{
+    border-style: solid;
+    border-width:thin;
+    border-color:white;
+    color:black;
+    background-color:white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    top:-1405px;
+    left: 140px;
+    box-shadow: 0px 0px  10px black;
+}
+
+.para{
+
+    position: relative;
+    top:-1247px;
+    left: 360px;
+} 
+
+
+
+
+
+
+
+.footer{
+    width: 202%;
+    height: 100px;
+    background: rgb(46, 46, 46);
+    position : relative;
+    top: -100px;
+    left:00px; 
+}   
+
+
+.text_footer{
+    font-size: 19px;
+    position: relative;
+    left: 100px;
+    top: -166px; 
+    font-weight: bold;
+    color:white;
+    font-family: arial;
+    
+}
+
+#text_footer{
+    font-size: 19px;
+    position: relative;
+    left: 190px;
+    top:-200px;
+    font-weight: bold;
+    color:rgb(114,180,56);
+    font-family: arial;
+} 
